@@ -1,8 +1,8 @@
 # Buger Eats (Tests Usando Cypress)
 
-##Projeto de testes de aceitação do app Buger Eats
+## Projeto de testes de aceitação do app Buger Eats
 
-###Site utilizado para os testes: [Buger Eats](https://buger-eats-qa.vercel.app/)
+### Site utilizado para os testes: [Buger Eats](https://buger-eats-qa.vercel.app/)
 
 ![image](https://user-images.githubusercontent.com/71274564/160697053-63180612-a16b-4426-b72c-903cf4659e8c.png)
 
